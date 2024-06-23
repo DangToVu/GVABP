@@ -1,0 +1,35 @@
+{
+  "Culture": "en",
+  "Texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "Menu:GVABP": "GVABP",
+    "Menu:GiangViens": "GiangViens",
+    "Actions": "Actions",
+    "Close": "Close",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "Birthday": "Birthday",
+    "NewGiangVien": "New GiangVien",
+    "Name": "Name",
+    "Type": "Suject Type",
+    "Salary": "Salary",
+    "CreationTime": "Creation time",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this ?",
+    "Enum:SubjectType.0": "Undefined",
+    "Enum:SubjectType.1": "Biology",
+    "Enum:SubjectType.2": "Chemistry",
+    "Enum:SubjectType.3": "History",
+    "Enum:SubjectType.4": "Science",
+    "Enum:SubjectType.5": "Math",
+    "Enum:SubjectType.6": "English",
+    "Enum:SubjectType.7": "Physics",
+    "Enum:SubjectType.8": "Economics",
+    "Enum:SubjectType.9": "Philosophy",
+    "GiangVienDeletionConfirmationMessage": "Are you sure to delete GiangVien '{0}'?",
+    "SuccessfullyDeleted": "Successfully deleted!"
+
+  }
+}
